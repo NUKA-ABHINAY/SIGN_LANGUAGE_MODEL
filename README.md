@@ -1,4 +1,4 @@
-***Sign Language Recognition Model***
+#Sign Language Recognition Model
 This project aims to bridge communication gaps for individuals with hearing or speech impairments by recognizing and translating sign language gestures into text or speech. The model uses computer vision and machine learning techniques, specifically Convolutional Neural Networks (CNNs), to achieve high accuracy in gesture recognition.
 
 Features
